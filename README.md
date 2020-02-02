@@ -1,2 +1,3 @@
-# stepik---auto-tests-course
+﻿# stepik---auto-tests-course
 Курс по Selenium в Stepik
+Мой первый комит
